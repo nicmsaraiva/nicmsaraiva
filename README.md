@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About me
 
-Quality Analyst with **5 years of experience** in test automation, API validation, messaging and cloud applications. I focus on building robust, scalable and maintainable test architectures that deliver real confidence in software quality.
+Quality Analyst with **5 years of experience** in test automation, API validation, messaging and cloud applications.
 
 - 🔭 Currently working at **CI&T**
 - 🧪 Specialized in **API, performance, E2E and integration testing**
@@ -30,7 +30,6 @@ Quality Analyst with **5 years of experience** in test automation, API validatio
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **API & Performance Testing**
 
@@ -58,9 +57,9 @@ Quality Analyst with **5 years of experience** in test automation, API validatio
 
 | Type | Tools |
 |---|---|
-| API Testing | REST Assured, Postman, Bruno |
+| API Testing | REST Assured, Postman, Insomnia |
 | UI Automation | Selenium, Cucumber |
-| Performance | JMeter, k6 |
+| Performance | JMeter, K6 |
 | Messaging | Kafka, SQS, SNS |
 | Cloud Monitoring | CloudWatch, X-Ray |
 | CI/CD | GitHub Actions, Jenkins, Docker |
@@ -80,16 +79,3 @@ Quality Analyst with **5 years of experience** in test automation, API validatio
 | [goldenfish-api](https://github.com/nicmsaraiva/goldenfish-api) | Personal Finance Management API | Java |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicmsaraiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicmsaraiva&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
-<div align="center">
-  <i>"Quality is not an act, it is a habit."</i>
-</div>
