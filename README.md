@@ -60,6 +60,7 @@ Quality Analyst with **5 years of experience** in test automation, API validatio
 | API Testing | REST Assured, Postman, Insomnia |
 | UI Automation | Selenium, Cucumber |
 | Performance | JMeter, K6 |
+| Mobile | Appium, WebDriverIO |
 | Messaging | Kafka, SQS, SNS |
 | Cloud Monitoring | CloudWatch, X-Ray |
 | CI/CD | GitHub Actions, Jenkins, Docker |
@@ -71,11 +72,12 @@ Quality Analyst with **5 years of experience** in test automation, API validatio
 
 | Project | Description | Stack |
 |---|---|---|
+| [desafio-mobile-c4](https://github.com/nicmsaraiva/desafio-mobile-c4) | Mobile test automation (Android + BrowserStack) | WebdriverIO, Appium |
+| [desafio-api-c4](https://github.com/nicmsaraiva/desafio-api-c4) | API challenge with automated tests | Java, REST Assured |
+| [kafka-performance-jmeter](https://github.com/nicmsaraiva/kafka-performance-jmeter) | Kafka load testing | JMeter |
+| [automation-stack](https://github.com/nicmsaraiva/automation-stack) | Multi-service test stack | Java |
 | [restful-booker-automation](https://github.com/nicmsaraiva/restful-booker-automation) | API test automation suite | Java, REST Assured, JUnit 5 |
 | [demo-park-api](https://github.com/nicmsaraiva/demo-park-api) | REST API test project | Java |
-| [automation-stack](https://github.com/nicmsaraiva/automation-stack) | Multi-service test stack | Java |
 | [kafka-calc-test](https://github.com/nicmsaraiva/kafka-calc-test) | Kafka messaging tests | Java, Kafka |
-| [kafka-performance-jmeter](https://github.com/nicmsaraiva/kafka-performance-jmeter) | Kafka load testing | JMeter |
 | [goldenfish-api](https://github.com/nicmsaraiva/goldenfish-api) | Personal Finance Management API | Java |
-
 ---
